@@ -9,7 +9,7 @@ pipeline {
     		stage('Second Stage') {          	 
         			steps {               	 
             			echo 'Hello Again'               	 
-            			echo 'A third time Hello'          	
+            			echo 'devops'          	
         			}     
     		}	
 	}
